@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cfd1e5b8.css",
+    "main.js": "/portfolio/static/js/main.f588761c.js",
+    "static/media/nitesh.jpg": "/portfolio/static/media/nitesh.d0a6753386e628cc3b80.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.cfd1e5b8.css.map": "/portfolio/static/css/main.cfd1e5b8.css.map",
+    "main.f588761c.js.map": "/portfolio/static/js/main.f588761c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd1e5b8.css",
+    "static/js/main.f588761c.js"
+  ]
+}
